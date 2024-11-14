@@ -1,3 +1,3 @@
 # M.Bilal
 This is my first Git repository.
-Author - M.Bilal
+Author - M.Bilal JUTT
